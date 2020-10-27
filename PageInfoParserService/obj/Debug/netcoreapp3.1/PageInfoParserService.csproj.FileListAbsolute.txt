@@ -1,0 +1,9 @@
+C:\Users\yuriy.paslavskyi\source\repos\PageInfoParser\PageInfoParserService\bin\Debug\netcoreapp3.1\PageInfoParserService.deps.json
+C:\Users\yuriy.paslavskyi\source\repos\PageInfoParser\PageInfoParserService\bin\Debug\netcoreapp3.1\PageInfoParserService.dll
+C:\Users\yuriy.paslavskyi\source\repos\PageInfoParser\PageInfoParserService\bin\Debug\netcoreapp3.1\PageInfoParserService.pdb
+C:\Users\yuriy.paslavskyi\source\repos\PageInfoParser\PageInfoParserService\obj\Debug\netcoreapp3.1\PageInfoParserService.csprojAssemblyReference.cache
+C:\Users\yuriy.paslavskyi\source\repos\PageInfoParser\PageInfoParserService\obj\Debug\netcoreapp3.1\PageInfoParserService.AssemblyInfoInputs.cache
+C:\Users\yuriy.paslavskyi\source\repos\PageInfoParser\PageInfoParserService\obj\Debug\netcoreapp3.1\PageInfoParserService.AssemblyInfo.cs
+C:\Users\yuriy.paslavskyi\source\repos\PageInfoParser\PageInfoParserService\obj\Debug\netcoreapp3.1\PageInfoParserService.csproj.CoreCompileInputs.cache
+C:\Users\yuriy.paslavskyi\source\repos\PageInfoParser\PageInfoParserService\obj\Debug\netcoreapp3.1\PageInfoParserService.dll
+C:\Users\yuriy.paslavskyi\source\repos\PageInfoParser\PageInfoParserService\obj\Debug\netcoreapp3.1\PageInfoParserService.pdb

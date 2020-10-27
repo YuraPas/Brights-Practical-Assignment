@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageInfoParser", "PageInfoParser\PageInfoParser.csproj", "{B21AE3A5-EF03-4EC9-BCFB-581D010DEA2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{7709B192-022C-451F-BDED-B40080270BD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageInfoParserService", "PageInfoParserService\PageInfoParserService.csproj", "{4C843C7F-F2BF-4E75-B316-A0A4581D26EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21AE3A5-EF03-4EC9-BCFB-581D010DEA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21AE3A5-EF03-4EC9-BCFB-581D010DEA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21AE3A5-EF03-4EC9-BCFB-581D010DEA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21AE3A5-EF03-4EC9-BCFB-581D010DEA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C843C7F-F2BF-4E75-B316-A0A4581D26EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C843C7F-F2BF-4E75-B316-A0A4581D26EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C843C7F-F2BF-4E75-B316-A0A4581D26EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C843C7F-F2BF-4E75-B316-A0A4581D26EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C843C7F-F2BF-4E75-B316-A0A4581D26EE} = {7709B192-022C-451F-BDED-B40080270BD7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29A0605-4006-4E8D-9A48-B53111F24609}
+	EndGlobalSection
+EndGlobal
